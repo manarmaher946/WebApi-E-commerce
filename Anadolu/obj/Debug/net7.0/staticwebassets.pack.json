@@ -1,0 +1,89 @@
+{
+  "Files": [
+    {
+      "Id": "G:\\finall back anadola\\Anadolu\\Anadolu\\wwwroot\\images\\1.png",
+      "PackagePath": "staticwebassets\\images\\1.png"
+    },
+    {
+      "Id": "G:\\finall back anadola\\Anadolu\\Anadolu\\wwwroot\\images\\10.png",
+      "PackagePath": "staticwebassets\\images\\10.png"
+    },
+    {
+      "Id": "G:\\finall back anadola\\Anadolu\\Anadolu\\wwwroot\\images\\2.png",
+      "PackagePath": "staticwebassets\\images\\2.png"
+    },
+    {
+      "Id": "G:\\finall back anadola\\Anadolu\\Anadolu\\wwwroot\\images\\4.png",
+      "PackagePath": "staticwebassets\\images\\4.png"
+    },
+    {
+      "Id": "G:\\finall back anadola\\Anadolu\\Anadolu\\wwwroot\\images\\5.png",
+      "PackagePath": "staticwebassets\\images\\5.png"
+    },
+    {
+      "Id": "G:\\finall back anadola\\Anadolu\\Anadolu\\wwwroot\\images\\6.png",
+      "PackagePath": "staticwebassets\\images\\6.png"
+    },
+    {
+      "Id": "G:\\finall back anadola\\Anadolu\\Anadolu\\wwwroot\\images\\7.png",
+      "PackagePath": "staticwebassets\\images\\7.png"
+    },
+    {
+      "Id": "G:\\finall back anadola\\Anadolu\\Anadolu\\wwwroot\\images\\8.png",
+      "PackagePath": "staticwebassets\\images\\8.png"
+    },
+    {
+      "Id": "G:\\finall back anadola\\Anadolu\\Anadolu\\wwwroot\\images\\9.png",
+      "PackagePath": "staticwebassets\\images\\9.png"
+    },
+    {
+      "Id": "G:\\finall back anadola\\Anadolu\\Anadolu\\wwwroot\\images\\King.jpg",
+      "PackagePath": "staticwebassets\\images\\King.jpg"
+    },
+    {
+      "Id": "G:\\finall back anadola\\Anadolu\\Anadolu\\wwwroot\\images\\MyLogo.jpg",
+      "PackagePath": "staticwebassets\\images\\MyLogo.jpg"
+    },
+    {
+      "Id": "G:\\finall back anadola\\Anadolu\\Anadolu\\wwwroot\\images\\SWEET1.jpg",
+      "PackagePath": "staticwebassets\\images\\SWEET1.jpg"
+    },
+    {
+      "Id": "G:\\finall back anadola\\Anadolu\\Anadolu\\wwwroot\\images\\_Done.png",
+      "PackagePath": "staticwebassets\\images\\_Done.png"
+    },
+    {
+      "Id": "G:\\finall back anadola\\Anadolu\\Anadolu\\wwwroot\\images\\ph2.jpg",
+      "PackagePath": "staticwebassets\\images\\ph2.jpg"
+    },
+    {
+      "Id": "G:\\finall back anadola\\Anadolu\\Anadolu\\wwwroot\\images\\ph3.jpg",
+      "PackagePath": "staticwebassets\\images\\ph3.jpg"
+    },
+    {
+      "Id": "G:\\finall back anadola\\Anadolu\\Anadolu\\wwwroot\\images\\ph4.jpg",
+      "PackagePath": "staticwebassets\\images\\ph4.jpg"
+    },
+    {
+      "Id": "G:\\finall back anadola\\Anadolu\\Anadolu\\wwwroot\\images\\photo1688564568 (1).jpeg",
+      "PackagePath": "staticwebassets\\images\\photo1688564568 (1).jpeg"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.Anadolu.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.Anadolu.props",
+      "PackagePath": "build\\Anadolu.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.Anadolu.props",
+      "PackagePath": "buildMultiTargeting\\Anadolu.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.Anadolu.props",
+      "PackagePath": "buildTransitive\\Anadolu.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
